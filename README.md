@@ -1,7 +1,7 @@
 [![Author: Níckolas de Aguiar Alves](https://img.shields.io/badge/author-Níckolas_de_Aguiar_Alves-e20134)](https://alves-nickolas.github.io/)
 ![Language: LuaLaTeX](https://img.shields.io/badge/language-LuaLaTeX-f1611a)
 [![License: LPPL 1.3](https://img.shields.io/badge/license-LPPL_1.3-ffc100)](https://test.latex-project.org//lppl/)
-[![Open on Overleaf](https://img.shields.io/badge/Open_in_Overleaf-04c421)]()
+[![Open on Overleaf](https://img.shields.io/badge/Open_in_Overleaf-04c421)](https://www.overleaf.com/latex/templates/minimalist-poster/cnkpgqgwkkwf)
 
 # Minimalist Poster
 By **Níckolas de Aguiar Alves**
